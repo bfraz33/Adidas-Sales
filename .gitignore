@@ -1,0 +1,8 @@
+# Ignore YAML files
+*.yaml
+
+# Ignore a specific YAML file
+config.yaml
+
+# Ignore all files in a specific directory
+C:\Project\Adidas US Sales
